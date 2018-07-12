@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait",
+    "name": "binstd",
+    "description": "The blockchain token wallet",
+    "slug": "binstd",
+    "version": "0.6",
+    "icon": "https://blockluz-1253389096.cos.ap-beijing.myqcloud.com/blockman/Icon.png",
+    "notification": {
+      "icon": "https://blockluz-1253389096.cos.ap-beijing.myqcloud.com/blockman/Icon.png"
+    },
+    "ios": {
+     "bundleIdentifier": "org.binstdwallet.exp"
+    },
+    "android": {
+     "package": "org.binstdwallet.exp"
+    }
+  }
+}
+
